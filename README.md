@@ -2,15 +2,15 @@
 
 Topic modeling analysis of 50 articles on fossil fuels using Latent Dirichlet Allocation (LDA) to identify key themes and trends in the energy sector.
 
-## 📋 Project Overview
+## Project Overview
 
 This academic project applies Natural Language Processing (NLP) and topic modeling techniques to analyze content about the fossil fuel industry. The analysis helps stakeholders understand current trends, regulations, and public sentiments to make informed decisions about production and strategy.
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Excessive fossil fuel consumption is driving global climate change and regulatory actions worldwide. This project aims to analyze industry trends and government regulations to help fossil fuel industry stakeholders optimize production and manage regulatory risks.
 
-## 🔧 Methodology
+## Methodology
 
 ### Data & Tools
 - **Dataset**: 50 scraped articles about fossil fuels
@@ -23,7 +23,7 @@ Excessive fossil fuel consumption is driving global climate change and regulator
 - **Coherence Score**: 0.399
 - **Optimal Topics**: 2 (determined through coherence score comparison)
 
-## 📊 Key Findings
+## Key Findings
 
 ### Extracted Topics:
 - **Topic 0**: Fossil fuel composition & energy production
@@ -36,7 +36,7 @@ Excessive fossil fuel consumption is driving global climate change and regulator
 - Key bridge artist: **Meghan Trainor** (Betweenness Centrality: 0.336)
 - Isolated artist: **Michael Jackson** (Zero connections)
 
-## 📈 Business Implications
+## Business Implications
 
 - **Risk Management**: Stay updated on evolving regulations and public sentiment
 - **Production Optimization**: Adjust output based on market trends and regulatory landscape
@@ -52,7 +52,7 @@ The project includes:
 - Word cloud generation for key themes
 - Document-topic assignment
 
-## 📁 Files Included
+## Files Included
 
 - Complete analysis report with methodology
 - Code implementation details
